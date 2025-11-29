@@ -1,0 +1,12 @@
+.box {
+  color: #fff;
+  background-color: red;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  font-size: 100px;
+  display: flex;
+}
+/*# sourceMappingURL=chartjs.2cdaf7bc.css.map */
